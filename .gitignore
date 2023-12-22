@@ -1,0 +1,51 @@
+# Ambiente virtual
+venv/
+env/
+
+# Arquivos de compilação Python
+*.pyc
+__pycache__/
+
+# Arquivos de log e de backup
+*.log
+*.pot
+*.pyo
+*.pyd
+*.db
+
+# Cache e diretórios de compilação
+*.pyc
+__pycache__/
+.cpython-*
+
+# Arquivos de configuração
+*.ini
+*.cfg
+*.conf
+
+# Arquivos de banco de dados
+*.sqlite3
+*.db
+
+# Arquivos de teste e cobertura
+*.pyc
+*.pyo
+*.pyd
+*.pyc
+*.pyo
+__pycache__/
+htmlcov/
+.coverage
+
+# Dependências geradas pelo pipenv
+Pipfile.lock
+
+# Arquivos do Jupyter Notebook
+.ipynb_checkpoints/
+
+# Diretório de construção
+build/
+dist/
+
+# Arquivo de variáveis de ambiente
+.env
